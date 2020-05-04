@@ -1,0 +1,29 @@
+.Book_title, .Book_author {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  font-style: italic;
+  font-variant: inherit; }
+
+.Book_title {
+  font-size: 24px; }
+
+.Book_author {
+  font-size: 18px; }
+
+h3 {
+  color: lightslategray;
+  text-align: center; }
+
+h2 {
+  color: mediumpurple;
+  text-align: center; }
+
+p {
+  font-weight: lighter;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 14px; }
+li{
+  padding:10px;
+}
+
+/*# sourceMappingURL=styles1.css.map */

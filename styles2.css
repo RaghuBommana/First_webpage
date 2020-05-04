@@ -7,12 +7,14 @@ h2 {
   text-align: center; }
 
 table {
-  border: 2px solid black;
+  border: 1px solid black;
   border-collapse: collapse;
-  width: 50%; }
+  width: 50%; 
+  margin: 20px;
+  }
 
 th, td {
-  border: 5px solid black;
+  border: 1px solid black;
   padding: 5px;
   text-align: center; }
 

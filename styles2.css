@@ -1,0 +1,22 @@
+h3 {
+  color: lightslategray;
+  text-align: center; }
+
+h2 {
+  color: mediumpurple;
+  text-align: center; }
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%; }
+
+th, td {
+  border: 10px solid black;
+  padding: 5px;
+  text-align: center; }
+
+th {
+  background-color: lightgray; }
+
+/*# sourceMappingURL=styles2.css.map */
